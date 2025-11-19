@@ -4,7 +4,7 @@
     "keywords": [
         "monad mainnet"
     ],
-    "timestamp": "2025-11-19T15:27:36.987453+00:00",
+    "timestamp": "2025-11-19T14:36:46.159603+00:00",
     "tokens": [
         {
             "chainId": 143,
@@ -13,14 +13,6 @@
             "symbol": "AUSD",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/AUSD/logo.svg"
-        },
-        {
-            "chainId": 143,
-            "address": "0xFF7F8F301F7A706E3CfD3D2275f5dc0b9EE8009B",
-            "name": "Folks Finance",
-            "symbol": "FOLKS",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/FOLKS/logo.svg"
         },
         {
             "chainId": 143,
@@ -129,7 +121,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 10,
+        "minor": 9,
         "patch": 0
     }
 }
